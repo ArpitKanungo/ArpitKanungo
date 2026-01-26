@@ -1,4 +1,5 @@
 <h1 align="center">Hi there👋,&nbsp I am Arpit Kanungo</h1>
+
 <p align="center">
   <img src="https://avatars.githubusercontent.com/u/118841034?s=400&u=baa80ba70e1160668e1dfcb7c9c18e191f912e82&v=4" width="180" style="border-radius:50%" />
 </p>
@@ -12,6 +13,7 @@
 </p>
 
 <p align="center">
+  
   <a href="https://www.linkedin.com/in/arpit-kanungo-a42a51194" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Arpit%20Kanungo-blue?style=flat&logo=linkedin&logoColor=white" />
   </a>
@@ -19,6 +21,14 @@
   <a href="https://leetcode.com/u/Arpit_K96/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-Arpit_K96-orange?style=flat&logo=leetcode" />
   </a>
+
+  <a href="https://drive.google.com/file/d/1jMdleCwGIwe3_OySDxNPE1FfZVJKMK4c/view?usp=sharing" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-View-green?style=flat&logo=googledrive&logoColor=white" />
+  </a>
+  
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=ArpitKanungo&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+  </p>
 </p>
 
 ---
@@ -67,5 +77,6 @@ Comfortable working across the stack using **Spring Boot** and **Angular**, with
 
 ## 📫 Contact
 - **LinkedIn:** [https://www.linkedin.com/in/arpit-kanungo-a42a51194](https://www.linkedin.com/in/arpit-kanungo-a42a51194)  
-- **LeetCode:** [https://leetcode.com/u/Arpit_K96/](https://leetcode.com/u/Arpit_K96/)  
+- **LeetCode:** [https://leetcode.com/u/Arpit_K96/](https://leetcode.com/u/Arpit_K96/)
+- **Gmail:** arpitkanungo@gmail.com
 - **GitHub:** Explore my repositories and find out.
