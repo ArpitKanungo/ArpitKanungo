@@ -1,4 +1,4 @@
-<h1 align="center">Hi there👋, I am Arpit</h1>
+<h1 align="center">Hi there👋,&nbsp I am Arpit Kanungo</h1>
 <p align="center">
   <img src="https://avatars.githubusercontent.com/u/118841034?s=400&u=baa80ba70e1160668e1dfcb7c9c18e191f912e82&v=4" width="180" style="border-radius:50%" />
 </p>
