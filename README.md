@@ -22,7 +22,7 @@
     <img src="https://img.shields.io/badge/LeetCode-Arpit_K96-orange?style=flat&logo=leetcode" />
   </a>
 
-  <a href="https://drive.google.com/file/d/1jMdleCwGIwe3_OySDxNPE1FfZVJKMK4c/view?usp=sharing" target="_blank">
+  <a href="https://drive.google.com/file/d/1bxnUqDMP81M43vQglqQPjKwQfrhrJeK2/view?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/Resume-View-green?style=flat&logo=googledrive&logoColor=white" />
   </a>
 </p>
